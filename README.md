@@ -6,3 +6,6 @@ This is a demo repository
 
 This is a change
 
+## Local development
+
+1. Open index.html in out browser
